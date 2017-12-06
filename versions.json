@@ -1,5 +1,10 @@
-{ "versions": [{ "versiontype": "proofreading", 
-                "title": "Dynamische Modellierung von Artikulation und prosodischer Struktur: Eine Einführung in die Artikulatorische Phonologie",
-                "authors": [{"name": "Doris Mücke"}],
-                "publishedAt": "2017-12-06T18:53:03.000Z"}]
-                }
+{
+	"versions": [{
+		"versiontype": "proofreading",
+		"title": "Dynamische Modellierung von Artikulation und prosodischer Struktur: Eine Einführung in die Artikulatorische Phonologie",
+		"authors": [{
+			"name": "Doris Mücke"
+		}],
+		"publishedAt": "2017-12-06T18:53:03.000Z"
+	}]
+}
